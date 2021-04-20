@@ -1,3 +1,5 @@
+//hahahah
+
 public class SquareEquation {
     double a,b,c;
     double root1,root2;
