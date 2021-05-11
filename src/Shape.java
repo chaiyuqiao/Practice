@@ -1,4 +1,4 @@
-abstract class Shape {
+abstract class Shape{
     double Area=10;
     abstract double getArea();
 }
@@ -23,7 +23,7 @@ class Rectangle extends Shape{
         return this.Area;
     }
 }
-class last {
+class TRY{
     public static void main(String args[]){
         Circle c=new Circle();
         c.getArea();
